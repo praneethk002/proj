@@ -1,0 +1,25 @@
+.Unordered {background-color: #FFEBCD;
+    color: #734d26;
+    font-size:25px;
+    margin:25px 30px 25px 30px;
+    padding: 27px 30px 27px 30px;
+    list-style-image: url('https://i.imgur.com/CL3liPi.png');
+}
+
+ol{ 
+    background-color: #DEB887;
+    color: #4d3319;
+    font-size:25px;
+    margin:20px 25px 20px 25px;
+    padding: 25px 30px 25px 30px;
+
+}
+#main{
+    background-color: #f9f2ec;
+    font-size:20px;
+}
+
+
+p > div{color: #994d00;
+    
+}
